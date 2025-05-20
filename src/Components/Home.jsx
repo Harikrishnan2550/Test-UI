@@ -19,7 +19,7 @@ function Home() {
             typesetting industry. Lorem Ipsum has been the industry's  <br />
             standard.
           </h3>
-          <button className="bg-amber-500 w-[170px] h-[40px] rounded-full mt-12 mb-16">
+          <button className="bg-amber-500 w-[200px] h-[60px] rounded-full mt-12 mb-16 text-[20px]">
             Get more details
           </button>
         </div>
@@ -47,7 +47,7 @@ function Home() {
             <img
               src={assets.home3}
               alt="image"
-              className="mr-[600px] w-[110px] h-auto mt-[130px]"
+              className="mr-[610px] w-[110px] h-auto mt-[120px]"
             />
             <img
               src={assets.home4}
@@ -62,3 +62,7 @@ function Home() {
 }
 
 export default Home;
+
+
+
+
